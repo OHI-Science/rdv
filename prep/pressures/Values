@@ -1,0 +1,8 @@
+fp_art_lb --> value
+hd_intertidal --> value
+po_chemicals --> value 
+po_nutrients --> value
+po_pathogens --> value
+po_trash --> value
+sp_alien --> value(50%+50%/2)
+ss_wgi --> value 
